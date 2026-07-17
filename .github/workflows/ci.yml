@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: actions/setup-node@v6
+      - uses: actions/setup-node@v7
         with:
           # pin to the minimum supported major (engines.node) so use of
           # newer-Node APIs fails here instead of on a user's machine
