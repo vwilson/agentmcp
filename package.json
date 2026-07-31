@@ -19,12 +19,12 @@
     "inspect": "npx @modelcontextprotocol/inspector node dist/index.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@modelcontextprotocol/sdk": "^1.30.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.1",
-    "@types/node": "^26.0.1",
-    "typescript": "^6.0.3"
+    "@biomejs/biome": "^2.5.6",
+    "@types/node": "^26.1.2",
+    "typescript": "^7.0.2"
   }
 }
